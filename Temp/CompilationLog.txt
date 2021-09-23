@@ -1,0 +1,56 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-16fc734ffbab3bec89a990f26c5f9327
+# Starting compiling UnityEngine.UI.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7207f383dd35a0b6ebdd0b80bee8a95b
+# Starting compiling UnityEditor.TestRunner.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-73e67e67d8f4a4f47b43b91c9b71710a
+# Starting compiling UnityEditor.UI.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a534ccde94f47e0fea3e1c8e01b8370f
+# Starting compiling Unity.VSCode.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7d0da2f7c754d75beaa10425d70370e3
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-203f2871b220b884eb0f84a129fabcd1
+# Starting compiling Unity.VisualStudio.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ac551dd11069b5d049c5dc0506eda301
+# Starting compiling Unity.Timeline.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8a6a2d78dc3c8e658be19fc691406faa
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9001308bf6a55e8a599994c09c285861
+# Starting compiling Unity.TextMeshPro.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-84b56a6b1d9521437bbe7d47e6cbe7e4
+# Starting compiling Unity.CollabProxy.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2f2d68ac2a6ccfc69901fb7acc5599c1
+# Starting compiling Unity.Searcher.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fe50470e596073a6298e35531cce2b3e
+# Starting compiling Unity.Timeline.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-526d9a3ab6f68717eae05cbd3f5256fa
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4c6d0924acae120fe9a32630c3dcea58
+# Starting compiling Unity.ShaderGraph.Utilities.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bbd0c4142e8c4cebea7a46ca378505f5
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7f7a05e7703fb46e7b3699f67bd37d2b
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-50b534941ea4920f8890b045b7cba3f5
+# Starting compiling Unity.ShaderGraph.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-aef52fc07d26636b0987f7ab0c2dc203
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-026dfbeaaf93a9ba1af606aefba1c8cb
+# Starting compiling Unity.Rider.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8d5d2dce1547df6988e1b0f74baae83a
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-807d889d49f6aa4a79ed673878f1b755
+# Starting compiling Unity.RenderPipelines.Core.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7b2b4dac6b2b5fd39b754480196fe458
+# Starting compiling Unity.Mathematics.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-58da06aed72d09a798fb7405e613f42a
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-72cacad45dc9351b186c58cde385a970
+# Starting compiling Unity.Mathematics.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e710f7f207587e203aaf4a0f1e71a252
+# Starting compiling Unity.RenderPipelines.Universal.Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bc69982ffe14b7cc1adcbdb14644b3e6
+# Starting compiling Assembly-CSharp.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6a8bab0d76fe8d6c89689a30deaf507b
+# Starting compiling Assembly-CSharp-Editor.dll
+/home/fizza/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-32b1f72bcd97dd3b9b4bf0cf78be5446
